@@ -1,3 +1,3 @@
 # Example Package
 
-![Tests](https://github.com/NayaxEmbeddedAutomation/some_shit/tests.yml/badge.svg)
+![Tests](https://github.com/NayaxEmbeddedAutomation/some_shit/actions/workflows/tests.yml/badge.svg)
