@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/some_shit/__init__.py
+src/some_shit/some_shit.py
+src/some_shitt.egg-info/PKG-INFO
+src/some_shitt.egg-info/SOURCES.txt
+src/some_shitt.egg-info/dependency_links.txt
+src/some_shitt.egg-info/top_level.txt
