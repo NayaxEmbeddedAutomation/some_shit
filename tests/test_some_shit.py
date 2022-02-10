@@ -9,6 +9,5 @@ import pytest
     (3, "a", False),
 
 ])
-
 def test_some_shit(a, b, c):
     assert print_equal(a, b) == c
