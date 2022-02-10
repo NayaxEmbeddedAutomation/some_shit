@@ -1,0 +1,8 @@
+requests>=2
+
+[testing]
+flake8>=3.9
+tox>=3.24
+pytest>=6.2
+pytest-cov>=2.12
+mypy>=0.910
