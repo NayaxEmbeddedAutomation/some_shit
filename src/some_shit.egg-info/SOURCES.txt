@@ -3,12 +3,12 @@ README.md
 pyproject.toml
 setup.cfg
 setup.py
+src/some_shit/__init__.py
+src/some_shit/py.typed
+src/some_shit/shitshit.py
 src/some_shit.egg-info/PKG-INFO
 src/some_shit.egg-info/SOURCES.txt
 src/some_shit.egg-info/dependency_links.txt
 src/some_shit.egg-info/not-zip-safe
 src/some_shit.egg-info/requires.txt
 src/some_shit.egg-info/top_level.txt
-src/somesome/__init__.py
-src/somesome/py.typed
-src/somesome/shitshit.py
